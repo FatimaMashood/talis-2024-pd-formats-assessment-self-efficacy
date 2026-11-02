@@ -44,7 +44,7 @@ Yes (codes 1–3) is pooled against No (code 4) for each format.
 
 ## Methods
 
-1. **Data loading & filtering**- Chunked CSV reading to filter to NLD2 rows from the ~278k-row international file.
+1. **Data loading & filtering**: Chunked CSV reading to filter to NLD2 rows from the ~278k-row international file.
 2. **Data quality checks**: Column coverage, missing data rates, sampling weight presence (`TCHWGT`), and unique respondent ID verification.
 3. **Sentinel recode**: TALIS uses numeric sentinel codes (8, 9, 96–99, 996–999) for missing responses; these are replaced with `NaN` on a clean copy of the data, preserving the original.
 4. **Variable labelling**: SPSS metadata extracted via `pyreadstat` to map cryptic column names to full question text.
@@ -98,7 +98,7 @@ Eight formats had at least 30 teachers in both groups (courses/workshops has no 
 | Teacher networks | 475 | 3.07 | 691 | 2.88 | < .001 | +0.14 | +0.20 [0.11, 0.28] |
 | Self-initiated learning | 629 | 3.04 | 539 | 2.86 | < .001 | +0.13 | +0.18 [0.10, 0.27] |
 
-A design-based sensitivity check (weighted mean differences using `TCHWGT` with BRR replicate weights, in the notebook) confirms the pattern: the same three formats are significant (weighted differences +0.20, +0.22, +0.20; all p < .001) and no other format is (smallest p = .076). These are associations, not evidence that any format raises self-efficacy. The three significant results also pass a Bonferroni threshold for eight tests (.05 / 8 ≈ .006).
+A design-based sensitivity check (weighted mean differences using `TCHWGT` with BRR replicate weights, in the notebook) confirms the pattern: the same three formats are significant (weighted differences +0.20, +0.22, +0.20; all p < .001) and no other format is (smallest p = .076). These are associations, not evidence that any format raises self-efficacy. In the one-at-a-time tests the three significant results also pass a Bonferroni threshold for eight tests (.05 / 8 ≈ .006).
 
 **Joint model (sensitivity).** Entering all eight formats together in one OLS model (school-clustered standard errors, 84 schools, unweighted, n = 1,135 complete cases) leaves the same three formats positive and significant at .05: conferences *b* = +0.126 (95% CI 0.035 to 0.216), teacher networks +0.142 (0.067 to 0.217), self-initiated learning +0.121 (0.034 to 0.207). Against a Bonferroni threshold of .05 / 8 = .00625, networks and self-initiated learning pass and conferences narrowly misses (*p* = .0064). An ordered logit gives the same three positive associations (odds ratios 1.42, 1.47, 1.38). In that model formal qualification turns weakly negative (OR = 0.74, *p* = .042), but it is not significant in the OLS model (*p* = .061) or the one-at-a-time test (*p* = .103), so treat it as unstable. No teacher or school covariates are included. Details are in the notebook (Step C4). Comparisons are complete-case, and the CI column above is a Welch *t* interval for the unweighted difference.
 
@@ -121,9 +121,9 @@ A design-based sensitivity check (weighted mean differences using `TCHWGT` with 
 
 Teachers who attended education conferences, took part in teacher networks or engaged in self-initiated learning report somewhat higher assessment confidence in this sample, and the differences are small. The design cannot show whether the formats build confidence or whether more confident teachers choose them. Next steps:
 
-- **Weighted, design-based analysis**: `TCHWGT` with BRR replicate weights (`TRWGT1–100`).
+- **Full design-based model**: the weighted check here compares means only; a model using `TCHWGT` and the BRR replicate weights (`TRWGT1–100`) would give population-valid estimates.
 - **PD content**: `TT4G21M` (whether PD specifically covered assessment analysis) is a more theoretically proximate predictor.
-- **Multilevel modelling**: Teachers are nested within schools; model formats jointly with teacher covariates.
+- **Covariates and multilevel modelling**: extend the joint model with teacher covariates (experience, gender, school type) and model teachers nested within schools.
 
 ---
 
@@ -158,4 +158,4 @@ talis-2024-pd-formats-assessment-self-efficacy/
 
 **Reference:** OECD. (2025, 7 October). *Results from TALIS 2024 – Country notes: Netherlands.* OECD Publishing. https://www.oecd.org/en/publications/results-from-talis-2024-country-notes_e127f9e2-en/netherlands_db6bd540-en.html
 
-*Analysis by Fatima Mashood | Data: TALIS 2024, OECD | Country: Netherlands (NLD)*
+*Analysis by Fatima Mashood | Data: TALIS 2024, OECD | Country: Netherlands (NLD2, lower-secondary)*
