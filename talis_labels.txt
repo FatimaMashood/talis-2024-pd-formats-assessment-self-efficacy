@@ -1,0 +1,456 @@
+TT4G01	Background/ Gender
+TT4G04	Background/ First teaching qualification
+TT4G06A	Background/ First teaching qualification/ Provided me with a strong understanding of the subject(s)
+TT4G06B	Background/ First teaching  qualification/ Provided me with ideas for managing classroom behaviour
+TT4G06C	Background/ First teaching  qualification/ Included enough time for classroom observations
+TT4G06D	Background/ First teaching  qualification/ Good balance between theoretical and practical aspects of teaching
+TT4G06E	Background/ First teaching  qualification/ Provided me with enough practical opportunities
+TT4G06F	Background/ First teaching  qualification/ Overall high quality
+TT4G07A	Background/ Prepared for teaching/ Content of some or all subject(s) I teach
+TT4G07B	Background/ Prepared for teaching/ Pedagogy of some or all subject(s) I teach
+TT4G07C	Background/ Prepared for teaching/ General pedagogy
+TT4G07D	Background/ Prepared for teaching/ Classroom practice in some or all subject(s) I teach
+TT4G07E	Background/ Prepared for teaching/ Teaching in a multicultural or multilingual setting
+TT4G07F	Background/ Prepared for teaching/ Use of <digital resources and tools> for teaching
+TT4G07G	Background/ Prepared for teaching/ Supporting students' development
+TT4G07I	Background/ Prepared for teaching/ Promoting play and peer interaction
+TT4G07J	Background/ Prepared for teaching/ Supporting children's transitions from <ISCED level 0> to <ISCED level 1>
+TT4G08	Background/ Teaching as the first choice as a career
+TT4G09	Current Work/ Employment status (in terms of tenure) as a teacher at this school
+TT4G10	Current Work/ Currently working as a teacher of <ISCED 2011 level x> at another school
+TT4G14	Current Work/ Total hours spent on tasks related to job at this school during most recent complete calendar week
+TT4G15	Current Work/ Hours spent on teaching at this school during most recent complete calendar week
+TT4G16A	Current Work/ Hours spent on tasks during most recent complete calendar week/ Individual planning or preparation of lessons
+TT4G16B	Current Work/ Hours spent on tasks during most recent complete calendar week/ Team work and dialogue with colleagues within school
+TT4G16C	Current Work/ Hours spent on tasks during most recent complete calendar week/ Marking/correcting of student work
+TT4G16D	Current Work/ Hours spent on tasks during most recent complete calendar week/ Counselling students
+TT4G16E	Current Work/ Hours spent on tasks during most recent complete calendar week/ Participation in school management
+TT4G16F	Current Work/ Hours spent on tasks during most recent complete calendar week/ General administrative work
+TT4G16G	Current Work/ Hours spent on tasks during most recent complete calendar week/ Professional learning activities
+TT4G16H	Current Work/ Hours spent on tasks during most recent complete calendar week/ Communication and co-operation with parents
+TT4G16I	Current Work/ Hours spent on tasks during most recent complete calendar week/ Engaging in extracurricular activities
+TT4G16J	Current Work/ Hours spent on tasks during most recent complete calendar week/ Other work tasks
+TT4G17A	Professional Learning/ Participation in induction/ I took part in a formal induction programme
+TT4G17B	Professional Learning/ Participation in induction/ I took part in informal induction activities
+TT4G18A	Professional Learning/ Part of induction/ Courses/seminars/workshops
+TT4G18B	Professional Learning/ Part of induction/ Online courses/seminars/workshops
+TT4G18C	Professional Learning/ Part of induction/ Online activities (e.g. virtual communities)
+TT4G18D	Professional Learning/ Part of induction/ Planned meetings with principal and/or experienced colleagues
+TT4G18E	Professional Learning/ Part of induction/ Supervision by principal and/or experienced colleagues
+TT4G18F	Professional Learning/ Part of induction/ Networking/collaboration with other new teachers
+TT4G18G	Professional Learning/ Part of induction/ Team teaching with experienced teachers
+TT4G18H	Professional Learning/ Part of induction/ Portfolios/diaries/journals
+TT4G18I	Professional Learning/ Part of induction/ Reduced teaching load
+TT4G18J	Professional Learning/ Part of induction/ General/administrative introduction
+TT4G18K	Professional Learning/ Part of induction/ Observing teachers at this school
+TT4G19A	Professional Learning/ Involvement in mentoring activities/ I currently have an assigned mentor to support me
+TT4G19B	Professional Learning/ Involvement in mentoring activities/ I am currently assigned mentor for one or more teacher
+TT4G20A	Professional Learning/ Participation in PL activities/ Courses/seminars/workshops
+TT4G20B	Professional Learning/ Participation in PL activities/ Education conferences
+TT4G20C	Professional Learning/ Participation in PL activities/ Formal qualification programme
+TT4G20D	Professional Learning/ Participation in PL activities/ Visits to other schools
+TT4G20E	Professional Learning/ Participation in PL activities/ Visits to business premises
+TT4G20F	Professional Learning/ Participation in PL activities/ Reflections on lesson observations
+TT4G20G	Professional Learning/ Participation in PL activities/ Coaching
+TT4G20H	Professional Learning/ Participation in PL activities/ Formal or informal teacher networks
+TT4G20I	Professional Learning/ Participation in PL activities/ Self-initiated learning activities
+TT4G20J	Professional Learning/ Participation in PL activities/ Other
+TT4G21A	Professional Learning/ Content of PL activities/ Knowledge and understanding of subject field(s)
+TT4G21B	Professional Learning/ Content of PL activities/ Pedagogy of the subject matter(s) I teach
+TT4G21C	Professional Learning/ Content of PL activities/ Knowledge of the curriculum
+TT4G21D	Professional Learning/ Content of PL activities/ Student assessment practices
+TT4G21E	Professional Learning/ Content of PL activities/ Pedagogical skills for incorporating <digital resources and tools>
+TT4G21F	Professional Learning/ Content of PL activities/ Technical skills for the use of <digital resources and tools>
+TT4G21G	Professional Learning/ Content of PL activities/ Using artificial intelligence for teaching and learning
+TT4G21H	Professional Learning/ Content of PL activities/ Classroom management for student behaviour
+TT4G21I	Professional Learning/ Content of PL activities/ School management and administration
+TT4G21J	Professional Learning/ Content of PL activities/ Approaches to individualised learning
+TT4G21K	Professional Learning/ Content of PL activities/ Teaching students with special education needs
+TT4G21L	Professional Learning/ Content of PL activities/ Teaching in a multicultural or multilingual setting
+TT4G21M	Professional Learning/ Content of PL activities/ Analysis and use of student assessments
+TT4G21N	Professional Learning/ Content of PL activities/ Teacher-parent co-operation
+TT4G21O	Professional Learning/ Content of PL activities/ Methods for supporting students’ social and emotional learning
+TT4G21Q	Professional Learning/ Content of PL activities/ Play and peer interaction
+TT4G21R	Professional Learning/ Content of PL activities/ Children transitioning from <ISCED level 0> to <ISCED level 1>
+TT4G21S	Professional Learning/ Content of PL activities/ Other
+TT4G22	Professional Learning/ Positive impact of PL activities on teaching
+TT4G23A	Professional Learning/ Characteristics of PL of importance/ Buildt on my prior knowledge
+TT4G23B	Professional Learning/ Characteristics of PL of importance/ Adapted to my personal development needs
+TT4G23C	Professional Learning/ Characteristics of PL of importance/ Provided a coherent structure
+TT4G23D	Professional Learning/ Characteristics of PL of importance/ Focused on content needed to teach my subject
+TT4G23E	Professional Learning/ Characteristics of PL of importance/ Provided opportunities for my active learning
+TT4G23F	Professional Learning/ Characteristics of PL of importance/ Provided opportunities for collaborative sharing
+TT4G23G	Professional Learning/ Characteristics of PL of importance/ Provided opportunities to practise/apply new ideas
+TT4G23H	Professional Learning/ Characteristics of PL of importance/ Provided opportunities for reflection about my teaching
+TT4G23I	Professional Learning/ Characteristics of PL of importance/ Provided follow-up activities
+TT4G23J	Professional Learning/ Characteristics of PL of importance/ Addressed my school’s needs
+TT4G23K	Professional Learning/ Characteristics of PL of importance/ Involved most colleagues from this school
+TT4G23L	Professional Learning/ Characteristics of PL of importance/ Took place over an extended period of time
+TT4G24A	Professional Learning/ PL needs/ Knowledge and understanding of my subject field(s)
+TT4G24B	Professional Learning/ PL needs/ The pedagogy of the subject matter(s) I teach
+TT4G24C	Professional Learning/ PL needs/ Knowledge of the curriculum
+TT4G24D	Professional Learning/ PL needs/ Student assessment practices
+TT4G24E	Professional Learning/ PL needs/ Pedagogical skills for incorporating <digital resources and tools>
+TT4G24F	Professional Learning/ PL needs/ Technical skills for the use of <digital resources and tools>
+TT4G24G	Professional Learning/ PL needs/ Skills for using artificial intelligence
+TT4G24H	Professional Learning/ PL needs/ Classroom management for student behaviour
+TT4G24I	Professional Learning/ PL needs/ School management and administration
+TT4G24J	Professional Learning/ PL needs/ Approaches to individualised learning
+TT4G24K	Professional Learning/ PL needs/ Teaching students with special education needs
+TT4G24L	Professional Learning/ PL needs/ Teaching in a multicultural or multilingual setting
+TT4G24M	Professional Learning/ PL needs/ Analysis and use of student assessments
+TT4G24N	Professional Learning/ PL needs/ Teacher-parent co-operation
+TT4G24O	Professional Learning/ PL needs/ Methods for supporting students' social and emotional learning
+TT4G24Q	Professional Learning/ PL needs/ Play and peer interaction
+TT4G24R	Professional Learning/ PL needs/ Children transitioning from <ISCED level 0> to <ISCED level 1>
+TT4G25A	Professional Learning/ Barriers to PL/ I do not have the pre-requisites
+TT4G25B	Professional Learning/ Barriers to PL/ Professional learning is too expensive
+TT4G25C	Professional Learning/ Barriers to PL/ There is a lack of employer support
+TT4G25D	Professional Learning/ Barriers to PL/ Professional learning conflicts with my work schedule
+TT4G25E	Professional Learning/ Barriers to PL/ I do not have time because responsibilities or commitments
+TT4G25F	Professional Learning/ Barriers to PL/ There is no relevant professional learning offered
+TT4G25G	Professional Learning/ Barriers to PL/ There are no incentives for participating in professional learning
+TT4G25H	Professional Learning/ Barriers to PL/ Professional learning is not accessible due to distance
+TT4G25I	Professional Learning/ Barriers to PL/ Professional learning is not accessible due to digital resources
+TT4G26A	Teaching in General/ Engagement in collaborative activities/ Teach jointly as a team in the same class
+TT4G26B	Teaching in General/ Engagement in collaborative activities/ Observe other teachers’ classes and provide feedback
+TT4G26C	Teaching in General/ Engagement in collaborative activities/ Engage in joint activities
+TT4G26D	Teaching in General/ Engagement in collaborative activities/ Exchange teaching materials with colleagues
+TT4G26E	Teaching in General/ Engagement in collaborative activities/ Engage in discussions about learning development
+TT4G26F	Teaching in General/ Engagement in collaborative activities/ Work with other teachers to ensure common standards
+TT4G26G	Teaching in General/ Engagement in collaborative activities/ Take part in collaborative professional learning
+TT4G26H	Teaching in General/ Engagement in collaborative activities/ Collaborate with parents or guardians
+TT4G27A	Teaching in General/ Self-efficacy in teaching/ Get students to believe they can do well in school work
+TT4G27B	Teaching in General/ Self-efficacy in teaching/ Help students value learning
+TT4G27C	Teaching in General/ Self-efficacy in teaching/ Craft good questions for students
+TT4G27D	Teaching in General/ Self-efficacy in teaching/ Control disruptive behaviour in the classroom
+TT4G27E	Teaching in General/ Self-efficacy in teaching/ Motivate students who show low interest in school work
+TT4G27F	Teaching in General/ Self-efficacy in teaching/ Make my expectations about student behaviour clear
+TT4G27G	Teaching in General/ Self-efficacy in teaching/ Help students think critically
+TT4G27H	Teaching in General/ Self-efficacy in teaching/ Get students to follow classroom rules
+TT4G27I	Teaching in General/ Self-efficacy in teaching/ Calm a student who is disruptive or noisy
+TT4G27J	Teaching in General/ Self-efficacy in teaching/ Use a variety of assessment strategies
+TT4G27K	Teaching in General/ Self-efficacy in teaching/ Provide an altern. explanation for example when students are confused
+TT4G27L	Teaching in General/ Self-efficacy in teaching/ Vary instructional strategies in my classroom
+TT4G27M	Teaching in General/ Self-efficacy in teaching/ Support learning through the use of <digital resources and tools>
+TT4G27N	Teaching in General/ Self-efficacy in teaching/ Help every student progress
+TT4G27O	Teaching in General/ Self-efficacy in teaching/ Reduce achievement gaps among students
+TT4G27P	Teaching in General/ Self-efficacy in teaching/ Support students’ social and emotional learning
+TT4G27R	Teaching in General/ Self-efficacy in teaching/ Help children prepare for starting <ISCED 2011 Level 1> school
+TT4G28A	Teaching in General/ Activities in school/ Adapt my teaching to the cultural diversity of students
+TT4G28B	Teaching in General/ Activities in school/ Ensure that students with and without a migrant background work together
+TT4G28C	Teaching in General/ Activities in school/ Raise awareness for cultural differences amongst students
+TT4G28D	Teaching in General/ Activities in school/ Reduce ethnic stereotyping amongst students
+TT4G28E	Teaching in General/ Activities in school/ Ensure that students with different backgrounds work together
+TT4G28F	Teaching in General/ Activities in school/ Critically examine the curriculum
+TT4G28G	Teaching in General/ Activities in school/ Use examples that are familiar to students
+TT4G30A	Teaching in General/ Beliefs about intelligence and learning/ Everyone has certain amount of intelligence
+TT4G30B	Teaching in General/ Beliefs about intelligence and learning/ People’s intelligence is something about them that they can't change
+TT4G30C	Teaching in General/ Beliefs about intelligence and learning/ Someone can learn new things but can't change their intelligence
+TT4G31A	Teaching in General/ Self-efficacy in teaching students with special education needs/ Work jointly with other professionals and staff
+TT4G31B	Teaching in General/ Self-efficacy in teaching students with special education needs/ Get parents/guardians involved in school activities
+TT4G31C	Teaching in General/ Self-efficacy in teaching students with special education needs/ Collaborate with other professionals in designing educational plans
+TT4G31D	Teaching in General/ Self-efficacy in teaching students with special education needs/ Inform others who know little about laws and policies
+TT4G31E	Teaching in General/ Self-efficacy in teaching students with special education needs/ Design learning tasks to accommodate students with special education needs
+TT4G31F	Teaching in General/ Self-efficacy in teaching students with special education needs/ Adapt <state, province, regional> wide assessment
+TT4G32A	Teaching in General/ Comfort with social and emotional aspects of teaching/ Comfortable providing instruction on social and emotional skills
+TT4G32B	Teaching in General/ Comfort with social and emotional aspects of teaching/ Taking care of students’ social and emotional needs comes natural to me
+TT4G32C	Teaching in General/ Comfort with social and emotional aspects of teaching/ <Informal lessons> in social and emotional learning part of my regular teaching practice
+TT4G33A	Teaching in General/ Self-efficacy in using <digital resources and tools>/ Identify <digital resources and tools> to support the subject(s) I teach
+TT4G33B	Teaching in General/ Self-efficacy in using <digital resources and tools>/ Use <digital resources and tools> to present concepts differently
+TT4G33C	Teaching in General/ Self-efficacy in using <digital resources and tools>/ Choose <digital resources and tools> that enhance student learning
+TT4G33D	Teaching in General/ Self-efficacy in using <digital resources and tools>/ Adapt the use of <digital resources and tools> to different teaching activities
+TT4G33E	Teaching in General/ Self-efficacy in using <digital resources and tools>/ Explain the potential risks of <digital resources and tools>
+TT4G33F	Teaching in General/ Self-efficacy in using <digital resources and tools>/ Communicate with parents using <digital resources and tools>
+TT4G33G	Teaching in General/ Self-efficacy in using <digital resources and tools>/ Learn to use technology that is new to me
+TT4G34A	Teaching in General/ Beliefs about <digital resources and tools>/ Helps students develop greater interest in learning
+TT4G34B	Teaching in General/ Beliefs about <digital resources and tools>/ Helps students develop skills to plan and monitor work
+TT4G34C	Teaching in General/ Beliefs about <digital resources and tools>/ Helps improve students’ academic performance
+TT4G34D	Teaching in General/ Beliefs about <digital resources and tools>/ Distracts students from learning
+TT4G34E	Teaching in General/ Beliefs about <digital resources and tools>/ Limits personal communication among students
+TT4G34F	Teaching in General/ Beliefs about <digital resources and tools>/ Frequent use negatively impacts students’ well-being
+TT4G34G	Teaching in General/ Beliefs about <digital resources and tools>/ Results in students submitting Internet content
+TT4G34H	Teaching in General/ Beliefs about <digital resources and tools>/ Helps students collaborate on tasks efficiently
+TT4G35A	Teaching in General/ Beliefs about artificial intelligence in education/ Helps teachers write or improve lesson plans
+TT4G35B	Teaching in General/ Beliefs about artificial intelligence in education/ Enables teachers to adapt learning material
+TT4G35C	Teaching in General/ Beliefs about artificial intelligence in education/ Assists teachers in supporting students individually
+TT4G35D	Teaching in General/ Beliefs about artificial intelligence in education/ Supports students with special education needs
+TT4G35E	Teaching in General/ Beliefs about artificial intelligence in education/ Helps teachers automate administrative tasks
+TT4G35F	Teaching in General/ Beliefs about artificial intelligence in education/ Enables students to misrepresent others’ work
+TT4G35G	Teaching in General/ Beliefs about artificial intelligence in education/ Makes inappropriate or incorrect recommendations
+TT4G35H	Teaching in General/ Beliefs about artificial intelligence in education/ Amplifies biases
+TT4G35I	Teaching in General/ Beliefs about artificial intelligence in education/ Jeopardises the privacy and security of student data
+TT4G35J	Teaching in General/ Beliefs about artificial intelligence in education/ Suggests unsuitable pedagogical approaches
+TT4G36	Teaching in General/ Used artificial intelligence during the last 12 months
+TT4G37A	Teaching in General/ Used artificial intelligence/ To assess or mark student work
+TT4G37B	Teaching in General/ Used artificial intelligence/ To efficiently learn about and summarise a topic
+TT4G37C	Teaching in General/ Used artificial intelligence/ To generate lesson plans or activities
+TT4G37D	Teaching in General/ Used artificial intelligence/ To support students with special education needs
+TT4G37E	Teaching in General/ Used artificial intelligence/ To automatically adjust the difficulty of lesson materials
+TT4G37F	Teaching in General/ Used artificial intelligence/ To generate text for student feedback or communication with parents
+TT4G37G	Teaching in General/ Used artificial intelligence/ To review data on student participation or performance
+TT4G37H	Teaching in General/ Used artificial intelligence/ To help students practice new skills in real-life scenarios
+TT4G37I	Teaching in General/ Used artificial intelligence/ Other
+TT4G38A	Teaching in General/ Reasons for not using artificial intelligence/ School lacks the infrastructure
+TT4G38B	Teaching in General/ Reasons for not using artificial intelligence/ Do not have the knowledge and skills
+TT4G38C	Teaching in General/ Reasons for not using artificial intelligence/ Do not believe we should use artificial intelligence
+TT4G38D	Teaching in General/ Reasons for not using artificial intelligence/ School does not allow
+TT4G38E	Teaching in General/ Reasons for not using artificial intelligence/ Feel overwhelmed by integrating new technologies
+TT4G38F	Teaching in General/ Reasons for not using artificial intelligence/ Other
+TT4G47A	Teaching in the <Target Class>/ Class composition/ Students with difficulties understanding the language(s) of instruction
+TT4G47B	Teaching in the <Target Class>/ Class composition/ Students' [first language] different from the language of instruction
+TT4G47C	Teaching in the <Target Class>/ Class composition/ Low academic achievers
+TT4G47D	Teaching in the <Target Class>/ Class composition/ Academically gifted students
+TT4G47E	Teaching in the <Target Class>/ Class composition/ Students with special education needs
+TT4G47F	Teaching in the <Target Class>/ Class composition/ Students with behavioural problems
+TT4G47G	Teaching in the <Target Class>/ Class composition/ Students from <socio-economically disadvantaged homes>
+TT4G47H	Teaching in the <Target Class>/ Class composition/ Students belonging to <ethnic/national minorities>
+TT4G47I	Teaching in the <Target Class>/ Class composition/ Male students
+TT4G47J	Teaching in the <Target Class>/ Class composition/ Students who are immigrants or with migrant background
+TT4G47K	Teaching in the <Target Class>/ Class composition/ Students who are refugees
+TT4G48A	Teaching in the <Target Class>/ Primary subject category of <target class>
+TT4G48BA	Teaching in the <Target Class>/ Primary subject category/ Reading, writing and literature
+TT4G48BB	Teaching in the <Target Class>/ Primary subject category/ Mathematics
+TT4G48BC	Teaching in the <Target Class>/ Primary subject category/ Science
+TT4G48BD	Teaching in the <Target Class>/ Primary subject category/ Social studies
+TT4G48BE	Teaching in the <Target Class>/ Primary subject category/ Modern foreign languages
+TT4G48BF	Teaching in the <Target Class>/ Primary subject category/ Ancient Greek and/or Latin
+TT4G48BG	Teaching in the <Target Class>/ Primary subject category/ Technology
+TT4G48BH	Teaching in the <Target Class>/ Primary subject category/ Arts
+TT4G48BI	Teaching in the <Target Class>/ Primary subject category/ Physical education
+TT4G48BJ	Teaching in the <Target Class>/ Primary subject category/ Religion and/or ethics
+TT4G48BK	Teaching in the <Target Class>/ Primary subject category/ Practical and vocational skills
+TT4G48BL	Teaching in the <Target Class>/ Primary subject category/ Other
+TT4G49	Teaching in the <Target Class>/ Primary subject category of <target class> included in formal education or training
+TT4G50A	Teaching in the <Target Class>/ Percentage of <class> time typically spent on activities/ Administrative tasks
+TT4G50B	Teaching in the <Target Class>/ Percentage of <class> time typically spent on activities/ Keeping order in classroom
+TT4G50C	Teaching in the <Target Class>/ Percentage of <class> time typically spent on activities/ Actual teaching and learning
+TT4G51A	Teaching in the <Target Class>/ Teaching practices/ I present a summary of recently learned content
+TT4G51B	Teaching in the <Target Class>/ Teaching practices/ I set goals at the beginning of instruction
+TT4G51C	Teaching in the <Target Class>/ Teaching practices/ I explain what I expect the students to learn
+TT4G51D	Teaching in the <Target Class>/ Teaching practices/ I explain how new and old topics are related
+TT4G51E	Teaching in the <Target Class>/ Teaching practices/ I present tasks for which there is no obvious solution
+TT4G51F	Teaching in the <Target Class>/ Teaching practices/ I give tasks that require students to think critically
+TT4G51G	Teaching in the <Target Class>/ Teaching practices/ I have students work in small groups to come up with a solution
+TT4G51H	Teaching in the <Target Class>/ Teaching practices/ I ask students to decide on own procedures for solving complex tasks
+TT4G51I	Teaching in the <Target Class>/ Teaching practices/ I tell students to follow classroom rules
+TT4G51J	Teaching in the <Target Class>/ Teaching practices/ I tell students to listen to what I say
+TT4G51K	Teaching in the <Target Class>/ Teaching practices/ I calm students who are disruptive
+TT4G51L	Teaching in the <Target Class>/ Teaching practices/ When the lesson begins, I tell students to quiet down quickly
+TT4G51M	Teaching in the <Target Class>/ Teaching practices/ I refer to a problem from everyday life or work to demonstrate why new knowledge is useful
+TT4G51N	Teaching in the <Target Class>/ Teaching practices/ I give students projects that require at least one week to complete
+TT4G51O	Teaching in the <Target Class>/ Teaching practices/ I encourage students to question and critique arguments
+TT4G52A	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Use <digital resources and tools> to present information
+TT4G52B	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Replace printed materials with digital versions
+TT4G52C	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Provide digital feedback on student work
+TT4G52D	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Download lesson plans from the Internet for direct use in class
+TT4G52E	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Use <digital resources and tools> to enable collaboration
+TT4G52F	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Use <digital resources and tools> to handle logistic aspects of teaching
+TT4G52G	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Support collaboration among students using <digital resources and tools>
+TT4G52H	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Use <digital resources and tools> that provide learning paths
+TT4G52I	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Use <digital resources and tools> to assess student learning
+TT4G52J	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Provide <digital resources and tools> that allow students planning and monitoring learning
+TT4G52K	Teaching in the <Target Class>/ Teaching practices related to the use of digital resources and tools/ Give students problems that can only be solved using <digital resources and tools>
+TT4G53A	Teaching in the <Target Class>/ Student assessment methods/ I administer an assessment at the end of a unit or block of lessons
+TT4G53B	Teaching in the <Target Class>/ Student assessment methods/ I give a <mark> to communicate to students
+TT4G53C	Teaching in the <Target Class>/ Student assessment methods/ I provide oral or written feedback
+TT4G53D	Teaching in the <Target Class>/ Student assessment methods/ I ask students to assess their own progress
+TT4G53E	Teaching in the <Target Class>/ Student assessment methods/ I observe students on tasks and provide immediate feedback
+TT4G53F	Teaching in the <Target Class>/ Student assessment methods/ I use assessments
+TT4G54A	Teaching in the <Target Class>/ Disciplinary climate/ There is much disruptive noise and disorder in the classroom
+TT4G54B	Teaching in the <Target Class>/ Disciplinary climate/ I have to wait a long time for students to quiet down
+TT4G54C	Teaching in the <Target Class>/ Disciplinary climate/ Many students don’t start working after the lesson begins
+TT4G54D	Teaching in the <Target Class>/ Disciplinary climate/ I lose quite a lot of time because of students interrupting lesson
+TT4G55A	Teaching in the <Target Class>/ Adaptive teaching practices/ I consider students’ prior knowledge and needs
+TT4G55B	Teaching in the <Target Class>/ Adaptive teaching practices/ I point students to different materials
+TT4G55C	Teaching in the <Target Class>/ Adaptive teaching practices/ I change my way of explaining
+TT4G55D	Teaching in the <Target Class>/ Adaptive teaching practices/ I adapt my teaching methods to students' needs
+TT4G55E	Teaching in the <Target Class>/ Adaptive teaching practices/ I ask questions at various difficulty levels
+TT4G56A	Teaching in the <Target Class>/ Teaching practices related to student practice/ I let students review multiple examples
+TT4G56B	Teaching in the <Target Class>/ Teaching practices related to student practice/ I select tasks for student practice that gradually increase in difficulty
+TT4G56C	Teaching in the <Target Class>/ Teaching practices related to student practice/ I prepare students for difficulties that can occur while practicing
+TT4G56D	Teaching in the <Target Class>/ Teaching practices related to student practice/ I let students practise similar tasks
+TT4G57A	Teaching in the <Target Class>/ Autonomy in teaching/ Implementing the curriculum in a flexible way
+TT4G57B	Teaching in the <Target Class>/ Autonomy in teaching/ Selecting teaching methods and strategies
+TT4G57C	Teaching in the <Target Class>/ Autonomy in teaching/ Choosing assessment activities
+TT4G57D	Teaching in the <Target Class>/ Autonomy in teaching/ Selecting learning objectives
+TT4G57E	Teaching in the <Target Class>/ Autonomy in teaching/ Designing and preparing lessons
+TT4G58A	Teaching in the <Target Class>/ Achieved lesson aims/ Presenting the content in a comprehensible way
+TT4G58B	Teaching in the <Target Class>/ Achieved lesson aims/ Engaging students in work that challenges them
+TT4G58C	Teaching in the <Target Class>/ Achieved lesson aims/ Providing students with feedback to support their learning
+TT4G58D	Teaching in the <Target Class>/ Achieved lesson aims/ Offering students opportunities to practice what they learned
+TT4G58E	Teaching in the <Target Class>/ Achieved lesson aims/ Adapting teaching to meet the different needs of students
+TT4G58F	Teaching in the <Target Class>/ Achieved lesson aims/ Helping students to manage their own emotions, thoughts, and behaviour
+TT4G58G	Teaching in the <Target Class>/ Achieved lesson aims/ Managing student behaviour
+TT4G59A	Teaching in the <Target Class>/ Instruction hindered by infrastructure or environment/ Inability to control lighting levels
+TT4G59B	Teaching in the <Target Class>/ Instruction hindered by infrastructure or environment/ Bad acoustics
+TT4G59C	Teaching in the <Target Class>/ Instruction hindered by infrastructure or environment/ Inability to control the heating system
+TT4G59D	Teaching in the <Target Class>/ Instruction hindered by infrastructure or environment/ Poor air quality
+TT4G59E	Teaching in the <Target Class>/ Instruction hindered by infrastructure or environment/ Inability to adjust the air cooling
+TT4G59F	Teaching in the <Target Class>/ Instruction hindered by infrastructure or environment/ Lack of access to natural elements
+TT4G60A	Teaching in the <Target Class>/ Empathising with students/ Be aware of my students’ feelings
+TT4G60B	Teaching in the <Target Class>/ Empathising with students/ Show warmth to my students
+TT4G60C	Teaching in the <Target Class>/ Empathising with students/ Care about the problems of my students
+TT4G60D	Teaching in the <Target Class>/ Empathising with students/ Be empathetic towards my students
+TT4G60E	Teaching in the <Target Class>/ Empathising with students/ Care about the social and emotional problems of my students
+TT4G61A	Teaching in the <Target Class>/ Students' social and emotional skill development/ Understanding their own emotions, thoughts, or behaviour
+TT4G61B	Teaching in the <Target Class>/ Students' social and emotional skill development/ Managing their own emotions, thoughts, or behaviour
+TT4G61C	Teaching in the <Target Class>/ Students' social and emotional skill development/ Understanding the perspectives of others
+TT4G61D	Teaching in the <Target Class>/ Students' social and emotional skill development/ Empathising with others
+TT4G61E	Teaching in the <Target Class>/ Students' social and emotional skill development/ Establishing and maintaining healthy relationships with others
+TT4G61F	Teaching in the <Target Class>/ Students' social and emotional skill development/ Making caring and constructive choices about their personal actions
+TT4G62A	Teaching in the <Target Class>/ Students' relationship skills/ Monitor his behaviour over the next 2 weeks to see if it improves
+TT4G62B	Teaching in the <Target Class>/ Students' relationship skills/ Arrange a meeting with your colleague
+TT4G62C	Teaching in the <Target Class>/ Students' relationship skills/ Have a discussion with him after your next lesson
+TT4G62D	Teaching in the <Target Class>/ Students' relationship skills/ Other
+TT4G63A	Teaching in the <Target Class>/ Students' social awareness/ Identify a role that she can focus on when working in a group
+TT4G63B	Teaching in the <Target Class>/ Students' social awareness/ Start the class by clarifying expectations and responsibilities
+TT4G63C	Teaching in the <Target Class>/ Students' social awareness/ Encourage her by commenting on her ability
+TT4G63D	Teaching in the <Target Class>/ Students' social awareness/ Other
+TT4G64A	School Climate/ General school climate/ School provides staff opportunities to participate in school decisions
+TT4G64B	School Climate/ General school climate/ School provides parents/guardians with opportunities to actively participate
+TT4G64C	School Climate/ General school climate/ School provides students with opportunities to participate
+TT4G64D	School Climate/ General school climate/ There is a collaborative school culture
+TT4G64E	School Climate/ General school climate/ The school staff share a common set of beliefs about teaching and learning
+TT4G64F	School Climate/ General school climate/ The school staff enforces rules for student behaviour consistently
+TT4G64G	School Climate/ General school climate/ This school encourages staff to lead new initiatives
+TT4G64H	School Climate/ General school climate/ Teachers can rely on each other
+TT4G64I	School Climate/ General school climate/ Teachers take leadership roles in promoting a professional learning community
+TT4G64J	School Climate/ General school climate/ Teachers initiate and lead collaborative activities
+TT4G64K	School Climate/ General school climate/ Teachers lead their professional growth and development activities
+TT4G64L	School Climate/ General school climate/ Teachers participate in non-teaching school events and projects
+TT4G65A	School Climate/ Teacher-student relations/ Teachers and students usually get on well with each other
+TT4G65B	School Climate/ Teacher-student relations/ Most teachers believe that the students’ well-being is important
+TT4G65C	School Climate/ Teacher-student relations/ Most teachers are interested in what students have to say
+TT4G65D	School Climate/ Teacher-student relations/ If a student needs extra assistance, the school provides it
+TT4G66A	School Climate/ Perceptions about the principal/ Principal has a clear vision for this school
+TT4G66B	School Climate/ Perceptions about the principal/ Principal encourages co-operation among teachers
+TT4G66C	School Climate/ Perceptions about the principal/ Principal ensures that teachers to take responsibility for improving teaching skills
+TT4G66D	School Climate/ Perceptions about the principal/ Principal ensures that teachers feel responsible for students learning outcomes
+TT4G66E	School Climate/ Perceptions about the principal/ Principal encourages all staff to have a say on important decisions
+TT4G66F	School Climate/ Perceptions about the principal/ Principal has good professional relationships with staff
+TT4G66G	School Climate/ Perceptions about the principal/ Principal has good professional relationships with parents or guardians
+TT4G66H	School Climate/ Perceptions about the principal/ Principal has good professional relationships with students
+TT4G66I	School Climate/ Perceptions about the principal/ Principal ensures that teachers’ performance is monitored effectively
+TT4G66J	School Climate/ Perceptions about the principal/ Principal provides useful feedback to teachers and staff
+TT4G67A	School Climate/ Relational school climate/ Teachers can rely on the <school management team>
+TT4G67B	School Climate/ Relational school climate/ The principal has confidence in the expertise of the teachers
+TT4G67C	School Climate/ Relational school climate/ Students can be counted on to do their school work
+TT4G67D	School Climate/ Relational school climate/ Students can be counted on to do their homework
+TT4G68A1	School Climate/ Feedback types/ Observation of classroom teaching/ External individuals or bodies
+TT4G68A2	School Climate/ Feedback types/ Observation of classroom teaching/ Principal or member(s) of SMT
+TT4G68A3	School Climate/ Feedback types/ Observation of classroom teaching/ Other colleagues within the school
+TT4G68A4	School Climate/ Feedback types/ Observation of classroom teaching/ I have never received this Feedback types
+TT4G68B1	School Climate/ Feedback types/ Student survey response/ External individuals or bodies
+TT4G68B2	School Climate/ Feedback types/ Student survey responses/ Principal or member(s) of SMT
+TT4G68B3	School Climate/ Feedback types/ Student survey responses/ Other colleagues within the school
+TT4G68B4	School Climate/ Feedback types/ Student survey responses/ I have never received this Feedback types
+TT4G68C1	School Climate/ Feedback types/ Assessment of content knowledge/ External individuals or bodies
+TT4G68C2	School Climate/ Feedback types/ Assessment of content knowledge/ Principal or member(s) of SMT
+TT4G68C3	School Climate/ Feedback types/ Assessment of content knowledge/ Other colleagues within the school
+TT4G68C4	School Climate/ Feedback types/ Assessment of content knowledge/ I have never received this Feedback types
+TT4G68D1	School Climate/ Feedback types/ My students’ external results/ External individuals or bodies
+TT4G68D2	School Climate/ Feedback types/ My students’ external results/ Principal or member(s) of SMT
+TT4G68D3	School Climate/ Feedback types/ My students’ external results/ Other colleagues within the school
+TT4G68D4	School Climate/ Feedback types/ My students’ external results/ I have never received this Feedback types
+TT4G68E1	School Climate/ Feedback types/ School and classroom results/ External individuals or bodies
+TT4G68E2	School Climate/ Feedback types/ School and classroom results/ Principal or member(s) of SMT
+TT4G68E3	School Climate/ Feedback types/ School and classroom results/ Other colleagues within the school
+TT4G68E4	School Climate/ Feedback types/ School and classroom results/ I have never received this Feedback types
+TT4G68F1	School Climate/ Feedback types/ Self-assessment of my work/ External individuals or bodies
+TT4G68F2	School Climate/ Feedback types/ Self-assessment of my work/ Principal or member(s) of SMT
+TT4G68F3	School Climate/ Feedback types/ Self-assessment of my work/ Other colleagues within the school
+TT4G68F4	School Climate/ Feedback types/ Self-assessment of my work/ I have never received this Feedback types
+TT4G69A	School Climate/ Impact of feedback/ Knowledge and understanding of my field(s)
+TT4G69B	School Climate/ Impact of feedback/ Pedagogical competencies in teaching my subject
+TT4G69C	School Climate/ Impact of feedback/ Use of student assessments to improve student learning
+TT4G69D	School Climate/ Impact of feedback/ Classroom management for student behaviour
+TT4G69E	School Climate/ Impact of feedback/ Methods for teaching students with special educational needs
+TT4G69F	School Climate/ Impact of feedback/ Methods for teaching in a multicultural or multilingual setting
+TT4G69G	School Climate/ Impact of feedback/ Methods for teaching with <digital resources and tools>
+TT4G69H	School Climate/ Impact of feedback/ Methods for supporting students’ social and emotional learning
+TT4G70A	School Climate/ Student bullying/ Teachers at this school make it clear to students that bullying is not tolerated
+TT4G70B	School Climate/ Student bullying/ At this school, students tell teachers when other students are being bullied
+TT4G70C	School Climate/ Student bullying/ There are adults at this school students could turn to with a personal problem
+TT4G70D	School Climate/ Student bullying/ The teachers at this school are genuinely concerned about the students
+TT4G70E	School Climate/ Student bullying/ Bullying among students is a problem at this school
+TT4G71A	School Climate/ Student harassment/ Students get teased about their clothing or physical appearance
+TT4G71B	School Climate/ Student harassment/ Students at this school get put down because of their ethnicity
+TT4G71C	School Climate/ Student harassment/ Students get teased about their gender expression and sexuality
+TT4G71D	School Climate/ Student harassment/ There are adults that students belonging to minorities could turn to
+TT4G71E	School Climate/ Student harassment/ There are adults at school students could turn to
+TT4G72A	School Climate/ Change management/ Too many change initiatives are introduced at this school
+TT4G72B	School Climate/ Change management/ I am tired of all the changes in this school
+TT4G72C	School Climate/ Change management/ We are asked to change too many things in this school
+TT4G72D	School Climate/ Change management/ It feels like we are always being asked to change something around here
+TT4G72E	School Climate/ Change management/ I would like to see a period of stability before we change anything else
+TT4G72F	School Climate/ Change management/ I am asked to implement change initiatives without the necessary resources
+TT4G73A	Occupational Perceptions/ Importance of factors/ Teaching suits my abilities
+TT4G73B	Occupational Perceptions/ Importance of factors/ Teaching is a secure job
+TT4G73C	Occupational Perceptions/ Importance of factors/ Working hours fit with my family responsibilities
+TT4G73D	Occupational Perceptions/ Importance of factors/ Teaching has commitment flexibility
+TT4G73E	Occupational Perceptions/ Importance of factors/ Teaching allows me to influence the next generation
+TT4G73F	Occupational Perceptions/ Importance of factors/ Teaching allows me to work against social disadvantage
+TT4G73G	Occupational Perceptions/ Importance of factors/ Teaching makes a worthwhile social contribution
+TT4G73H	Occupational Perceptions/ Importance of factors/ I like working with children/adolescents
+TT4G73I	Occupational Perceptions/ Importance of factors/ Teaching allows me to exercise autonomy
+TT4G74	Occupational Perceptions/ Number of years want to continue to work as a teacher
+TT4G75A	Occupational Perceptions/ Attrition factors/ A non-teaching position within education
+TT4G75B	Occupational Perceptions/ Attrition factors/ A job outside of education
+TT4G75C	Occupational Perceptions/ Attrition factors/ Further education or training
+TT4G75D	Occupational Perceptions/ Attrition factors/ Personal or family reasons
+TT4G75E	Occupational Perceptions/ Attrition factors/ Retirement from work sector
+TT4G76A	Occupational Perceptions/ Experiences as a teacher at this school/ I experience stress in my work
+TT4G76B	Occupational Perceptions/ Experiences as a teacher at this school/ My job leaves me time for my personal life
+TT4G76C	Occupational Perceptions/ Experiences as a teacher at this school/ My job negatively impacts my mental health
+TT4G76D	Occupational Perceptions/ Experiences as a teacher at this school/ My job negatively impacts my physical health
+TT4G77A	Occupational Perceptions/ Sources of stress in work/ Having too much lesson preparation
+TT4G77B	Occupational Perceptions/ Sources of stress in work/ Having too many lessons to teach
+TT4G77C	Occupational Perceptions/ Sources of stress in work/ Having too much marking
+TT4G77D	Occupational Perceptions/ Sources of stress in work/ Having too much administrative work to do
+TT4G77E	Occupational Perceptions/ Sources of stress in work/ Having extra duties due to absent teachers
+TT4G77F	Occupational Perceptions/ Sources of stress in work/ Being held responsible for students’ achievement
+TT4G77G	Occupational Perceptions/ Sources of stress in work/ Maintaining classroom discipline
+TT4G77H	Occupational Perceptions/ Sources of stress in work/ Being intimidated or verbally abused by students
+TT4G77I	Occupational Perceptions/ Sources of stress in work/ Keeping up with changing requirements from authorities
+TT4G77J	Occupational Perceptions/ Sources of stress in work/ Addressing parent or guardian concerns
+TT4G77K	Occupational Perceptions/ Sources of stress in work/ Modifying lessons for students with special education needs
+TT4G77L	Occupational Perceptions/ Sources of stress in work/ Being held responsible for students’ well-being
+TT4G77M	Occupational Perceptions/ Sources of stress in work/ Keeping up with curriculum or programme changes in this school
+TT4G77N	Occupational Perceptions/ Sources of stress in work/ Having too much work on diversity and equity issues
+TT4G77O	Occupational Perceptions/ Sources of stress in work/ Having to adapt my work due to unexpected disruptions
+TT4G77P	Occupational Perceptions/ Sources of stress in work/ Keeping up with professional learning
+TT4G78A	Occupational Perceptions/ Job satisfaction/ The advantages clearly outweigh the disadvantages
+TT4G78B	Occupational Perceptions/ Job satisfaction/ If I could decide again, I would still choose to work as a teacher
+TT4G78C	Occupational Perceptions/ Job satisfaction/ I would like to change to another school if that were possible
+TT4G78D	Occupational Perceptions/ Job satisfaction/ I regret that I decided to become a teacher
+TT4G78E	Occupational Perceptions/ Job satisfaction/ I enjoy working at this school
+TT4G78F	Occupational Perceptions/ Job satisfaction/ I wonder whether it would be better to choose another profession
+TT4G78G	Occupational Perceptions/ Job satisfaction/ I would recommend my school as a good place to work
+TT4G78H	Occupational Perceptions/ Job satisfaction/ I think that the teaching profession is valued in society
+TT4G78I	Occupational Perceptions/ Job satisfaction/ I am satisfied with my performance in this school
+TT4G78J	Occupational Perceptions/ Job satisfaction/ All in all, I am satisfied with my job
+TT4G79A	Occupational Perceptions/ Perceptions of teachers' value/ I am satisfied with the salary I receive for my work
+TT4G79B	Occupational Perceptions/ Perceptions of teachers' value/ Apart from salary, I am satisfied with <contract/employment>
+TT4G79C	Occupational Perceptions/ Perceptions of teachers' value/ Teachers are valued by students in this school
+TT4G79D	Occupational Perceptions/ Perceptions of teachers' value/ Teachers are valued by parents/guardians
+TT4G79E	Occupational Perceptions/ Perceptions of teachers' value/ Teachers’ views are valued by policymakers
+TT4G79F	Occupational Perceptions/ Perceptions of teachers' value/ Teachers can influence educational policy
+TT4G79G	Occupational Perceptions/ Perceptions of teachers' value/ Teachers are valued in the media
+TT4G80A	Occupational Perceptions/ Enjoyment of teaching/ I like the subject(s) that I teach
+TT4G80B	Occupational Perceptions/ Enjoyment of teaching/ I often feel happy while I teach
+TT4G80C	Occupational Perceptions/ Enjoyment of teaching/ I generally teach with enthusiasm
+TT4G80D	Occupational Perceptions/ Enjoyment of teaching/ The interesting challenges of teaching give me satisfaction
+TT4G82A	Teacher Mobility/ Been abroad for professional purposes/ As a student, as part of my teacher <education or training>
+TT4G82B	Teacher Mobility/ Been abroad for professional purposes/ As a teacher in an EU programme
+TT4G82C	Teacher Mobility/ Been abroad for professional purposes/ As a teacher in a regional or national programme
+TT4G82D	Teacher Mobility/ Been abroad for professional purposes/ As a teacher, as arranged by a school or school district
+TT4G82E	Teacher Mobility/ Been abroad for professional purposes/ As a teacher, by my own initiative
+TT4G83A	Teacher Mobility/ Professional purposes of visits abroad/ Studying, as part of my teacher education
+TT4G83B	Teacher Mobility/ Professional purposes of visits abroad/ Language learning
+TT4G83C	Teacher Mobility/ Professional purposes of visits abroad/ Learning of other subject areas
+TT4G83D	Teacher Mobility/ Professional purposes of visits abroad/ Accompanying visiting students
+TT4G83E	Teacher Mobility/ Professional purposes of visits abroad/ Establishing contact with schools abroad
+TT4G83F	Teacher Mobility/ Professional purposes of visits abroad/ Teaching
+TT4G83G	Teacher Mobility/ Professional purposes of visits abroad/ Other
+TT4G84	Teacher Mobility/ Duration stayed abroad for professional purposes

@@ -1,0 +1,8 @@
+# Versions the notebook was last run with (Python 3.13). Older releases of pandas>=2, scipy>=1.10 should also work.
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pyreadstat>=1.2
+jupyter
+statsmodels>=0.14
