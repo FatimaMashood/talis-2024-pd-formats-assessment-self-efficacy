@@ -111,7 +111,7 @@ A design-based sensitivity check (weighted mean differences using `TCHWGT` with 
 - **Sample and non-response**: Lower-secondary (ISCED 2, `IDPOP = 2`) teachers only; Dutch primary teachers in the file are excluded. The OECD's Netherlands country note (OECD, 2025) flags the Dutch estimates because the sample did not meet TALIS participation-rate standards, with a higher risk of non-response bias, so results should be interpreted with caution.
 - **Self-report bias**: Both predictor and outcome are self-reported; self-efficacy scores may reflect personality disposition rather than genuine competence.
 - **Cross-sectional design**: Causality cannot be inferred; teachers with higher baseline self-efficacy may self-select into more PD.
-- **Multiple comparisons**: Eight tests, no formal adjustment (in the one-at-a-time tests the three significant results pass a Bonferroni threshold of .05 / 8 = .00625; in the joint model conferences narrowly misses it); formats are analysed one at a time with no covariates, and participation in different formats is likely correlated.
+- **Multiple comparisons**: Eight tests, no formal adjustment (in the one-at-a-time tests the three significant results pass a Bonferroni threshold of .05 / 8 = .00625; in the joint model conferences narrowly misses it); the main tests take one format at a time, and the joint model adjusts for the other formats but for no teacher or school covariates.
 - **Format, not content**: The analysis does not capture PD duration, quality, or content (e.g., `TT4G21M`).
 - **Missing item**: `TT4G20A` (courses/workshops) has no valid NLD responses.
 
