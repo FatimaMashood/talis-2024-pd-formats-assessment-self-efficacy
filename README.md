@@ -92,15 +92,15 @@ Eight formats had at least 30 teachers in both groups (courses/workshops has no 
 | Education conferences | 497 | 3.06 | 672 | 2.89 | < .001 | +0.12 | +0.17 [0.09, 0.26] |
 | Formal qualification programme | 222 | 2.89 | 939 | 2.97 | .103 | −0.06 | −0.08 [−0.19, 0.03] |
 | Visits to other schools | 276 | 3.04 | 889 | 2.93 | .053 | +0.07 | +0.11 [0.01, 0.20] |
-| Visits to business premises | 238 | 3.03 | 929 | 2.94 | .106 | +0.06 | +0.09 [−0.00, 0.19] |
+| Visits to business premises | 238 | 3.03 | 929 | 2.94 | .106 | +0.06 | +0.10 [−0.00, 0.19] |
 | Lesson observation & reflection | 802 | 2.98 | 367 | 2.91 | .170 | +0.05 | +0.07 [−0.02, 0.16] |
 | Coaching / mentoring | 421 | 2.99 | 744 | 2.94 | .249 | +0.04 | +0.05 [−0.03, 0.14] |
-| Teacher networks | 475 | 3.07 | 691 | 2.88 | < .001 | +0.14 | +0.19 [0.11, 0.28] |
+| Teacher networks | 475 | 3.07 | 691 | 2.88 | < .001 | +0.14 | +0.20 [0.11, 0.28] |
 | Self-initiated learning | 629 | 3.04 | 539 | 2.86 | < .001 | +0.13 | +0.18 [0.10, 0.27] |
 
 A design-based sensitivity check (weighted mean differences using `TCHWGT` with BRR replicate weights, in the notebook) confirms the pattern: the same three formats are significant (weighted differences +0.20, +0.22, +0.20; all p < .001) and no other format is (smallest p = .076). These are associations, not evidence that any format raises self-efficacy. The three significant results also pass a Bonferroni threshold for eight tests (.05 / 8 ≈ .006).
 
-**Joint model (sensitivity).** Entering all eight formats together in one OLS model (school-clustered standard errors, 84 schools, unweighted, n = 1,135 complete cases) leaves the same three formats positive and significant at .05: conferences *b* = +0.126 (95% CI 0.035 to 0.216), teacher networks +0.142 (0.067 to 0.217), self-initiated learning +0.121 (0.034 to 0.207). Against a Bonferroni threshold of .05 / 8 = .00625, networks and self-initiated learning pass and conferences narrowly misses (*p* = .0064). An ordered logit gives the same three positive associations (odds ratios 1.42, 1.47, 1.38). In that model formal qualification turns weakly negative (OR = 0.74, *p* = .042), but it is not significant in the OLS model (*p* = .061) or the one-at-a-time test (*p* = .103), so treat it as unstable. No teacher or school covariates are included. Details are in the notebook (Step C4) and `brief.md`. Comparisons are complete-case, and the CI column above is a Welch *t* interval for the unweighted difference.
+**Joint model (sensitivity).** Entering all eight formats together in one OLS model (school-clustered standard errors, 84 schools, unweighted, n = 1,135 complete cases) leaves the same three formats positive and significant at .05: conferences *b* = +0.126 (95% CI 0.035 to 0.216), teacher networks +0.142 (0.067 to 0.217), self-initiated learning +0.121 (0.034 to 0.207). Against a Bonferroni threshold of .05 / 8 = .00625, networks and self-initiated learning pass and conferences narrowly misses (*p* = .0064). An ordered logit gives the same three positive associations (odds ratios 1.42, 1.47, 1.38). In that model formal qualification turns weakly negative (OR = 0.74, *p* = .042), but it is not significant in the OLS model (*p* = .061) or the one-at-a-time test (*p* = .103), so treat it as unstable. No teacher or school covariates are included. Details are in the notebook (Step C4). Comparisons are complete-case, and the CI column above is a Welch *t* interval for the unweighted difference.
 
 
 ---
@@ -148,7 +148,7 @@ talis-2024-pd-formats-assessment-self-efficacy/
 ├── talis_labels.txt         # Variable labels (TALIS 2024 teacher file)
 ├── requirements.txt
 ├── README.md
-├── brief.md
+├── brief.pdf
 ├── fig1_descriptive.png
 ├── fig2_comparison.png
 └── datasets/                # you add this (git-ignored)
